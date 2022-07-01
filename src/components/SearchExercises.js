@@ -42,7 +42,6 @@ const SearchExercises = ({setExercises, bodyPart, setBodyPart}) => {
       mt="37px"
       justifyContent="center"
       p="20px"
-      overflow-x="hidden"
     >
       <Typography
         variant="h4"
